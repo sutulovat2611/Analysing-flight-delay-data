@@ -15,7 +15,7 @@ _Focus on manipulating data using Spark RDD, Spark DataFrames and Spark SQL_
 * **Part 2:** Work with Dataframes in PySpark to implement specific queries related to flight delays data analysis.
 * **Part 3:** Implement a query and compare three different approaches: RDD, DataFrame, and SparkSQL.
 
-### Assignment 2 - Part A:
+### Assignment 2 - Part A: Preprocessing, Visualization, Data Modelling
 Use Spark DataFrames, Spark SQL, MLlib/ML packages to do the pre-processing, visualization, and data modelling steps. The data modelling task aims to create the machine learning models utilizing MLlib/ML APIs to predict both departure and arrival delays from the testing data using classification tasks. Build models to predict the classes.
 * **Part 1:** Data Loading, Cleaning, Labelling, and Exploration
 * **Part 2:** Feature extraction and ML Training

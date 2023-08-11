@@ -9,6 +9,6 @@ summarises various flight information such as the number of on-time, delayed, ca
 * airports.csv
 
 ## Tasks
-* Part 1: Work with RDDs in PySpark to implement specific queries related to flight delays data analysis.
-* Part 2: Work with Dataframes in PySpark to implement specific queries related to flight delays data analysis.
-* Part 3: Implement a query and compare three different approaches: RDD, DataFrame, and SparkSQL.
+* **Part 1:** Work with RDDs in PySpark to implement specific queries related to flight delays data analysis.
+* **Part 2:** Work with Dataframes in PySpark to implement specific queries related to flight delays data analysis.
+* **Part 3:** Implement a query and compare three different approaches: RDD, DataFrame, and SparkSQL.

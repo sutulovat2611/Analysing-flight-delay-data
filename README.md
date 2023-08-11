@@ -5,8 +5,8 @@ The flight-delays prediction dataset has become one popular dataset used by the 
 ## Information on Dataset
 The flight-delays and cancellation data was collected and published by the U.S. Department of Transportation’s (DOT) Bureau of Transportation Statistics. This data records the flights operated by large air carriers and tracks the on-time performance of domestic flights. This data
 summarises various flight information such as the number of on-time, delayed, cancelled, and diverted flights published in DOT's monthly in 2015.
-* A folder 'flights' containing 20 flight*.csv files
-* airports.csv
+* A folder 'flights' containing 20 _flight*.csv_ files
+* _airports.csv_
 
 ## Tasks
 * **Part 1:** Work with RDDs in PySpark to implement specific queries related to flight delays data analysis.
